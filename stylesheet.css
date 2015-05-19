@@ -1,0 +1,21 @@
+.container {
+    margin: auto;
+}
+.gridItem {
+    margin: 0px 0px -4px 0px;
+    padding: 0px 0px 0px 0px;
+    display: inline-block;
+    background-color: darkslategray;
+    border: 1px solid black;
+    height: 19px;
+    width: 19px;
+}
+.highlight {
+    background-color: azure;
+}
+p {
+    text-align: center;
+    background-color: #8C9BAB;
+    height: 70px;
+    border-radius: 20px;
+    color: 
